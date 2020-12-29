@@ -5,6 +5,7 @@ platform:arm imx6 linux
 software:gstreamer1.0 
 code:c gstreamer1.0 api
 des:cameras->output cameras->file using hard codec/ipu of gstreamer-plugin-imx.
+---------------------------------------------------------------------------------------------------
 [helps]
 [CAMERA0_TO_LCD] ->lcd
 [CAMERA0_TO_HDMI] ->hdmi
